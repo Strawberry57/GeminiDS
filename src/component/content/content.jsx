@@ -1,6 +1,6 @@
 import React from "react";
 import "./content.scss";
-import Demo from "../../assets/img/anh_demo.jpg";
+import Demo from "../../assets/img/avatar.jpg";
 import react from "../../assets/react.svg";
 import html from "../../assets/html.png";
 import css from "../../assets/css.png";
