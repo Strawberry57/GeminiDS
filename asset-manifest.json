@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/GeminiDS/static/css/main.7c8f9051.css",
-    "main.js": "/GeminiDS/static/js/main.e65e7d21.js",
+    "main.js": "/GeminiDS/static/js/main.9caa7724.js",
     "static/js/787.fb6328c6.chunk.js": "/GeminiDS/static/js/787.fb6328c6.chunk.js",
-    "static/media/anh_demo.jpg": "/GeminiDS/static/media/anh_demo.94059514ee413dd42f36.jpg",
+    "static/media/avatar.jpg": "/GeminiDS/static/media/avatar.0d3a225abb828245b868.jpg",
     "static/media/css.png": "/GeminiDS/static/media/css.743753663853fbde9ab9.png",
     "static/media/html.png": "/GeminiDS/static/media/html.8b0b5e2f98998951aeb2.png",
     "static/media/js.png": "/GeminiDS/static/media/js.ace0b66b20f5aa392aa5.png",
     "static/media/react.svg": "/GeminiDS/static/media/react.6d4dd5dfc6163bdfcfe520bd6bef1a6a.svg",
     "index.html": "/GeminiDS/index.html",
     "main.7c8f9051.css.map": "/GeminiDS/static/css/main.7c8f9051.css.map",
-    "main.e65e7d21.js.map": "/GeminiDS/static/js/main.e65e7d21.js.map",
+    "main.9caa7724.js.map": "/GeminiDS/static/js/main.9caa7724.js.map",
     "787.fb6328c6.chunk.js.map": "/GeminiDS/static/js/787.fb6328c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c8f9051.css",
-    "static/js/main.e65e7d21.js"
+    "static/js/main.9caa7724.js"
   ]
 }
