@@ -1,0 +1,40 @@
+.wrapper-slider {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  .header-page {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .nameHeader {
+      font-weight: 600;
+      font-size: 20px;
+      line-height: 30px;
+      letter-spacing: -0.04em;
+      display: flex;
+      align-items: center;
+      span {
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 18px;
+        color: #af48ff;
+        padding: 6px 14px;
+        background: #f5edff;
+        border-radius: 179.467px;
+        margin-left: 10px;
+        letter-spacing: initial;
+      }
+    }
+    .linkingHeader {
+      display: flex;
+      gap: 36px;
+      align-items: center;
+      ion-icon {
+        height: 30px;
+        width: 25px;
+        color: #af48ff;
+        cursor: pointer;
+      }
+    }
+  }
+}
