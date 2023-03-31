@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GeminiDS/static/css/main.ffdcebf1.css",
+    "main.css": "/GeminiDS/static/css/main.58a64f03.css",
     "main.js": "/GeminiDS/static/js/main.9caa7724.js",
     "static/js/787.fb6328c6.chunk.js": "/GeminiDS/static/js/787.fb6328c6.chunk.js",
     "static/media/avatar.jpg": "/GeminiDS/static/media/avatar.0d3a225abb828245b868.jpg",
@@ -9,12 +9,12 @@
     "static/media/js.png": "/GeminiDS/static/media/js.ace0b66b20f5aa392aa5.png",
     "static/media/react.svg": "/GeminiDS/static/media/react.6d4dd5dfc6163bdfcfe520bd6bef1a6a.svg",
     "index.html": "/GeminiDS/index.html",
-    "main.ffdcebf1.css.map": "/GeminiDS/static/css/main.ffdcebf1.css.map",
+    "main.58a64f03.css.map": "/GeminiDS/static/css/main.58a64f03.css.map",
     "main.9caa7724.js.map": "/GeminiDS/static/js/main.9caa7724.js.map",
     "787.fb6328c6.chunk.js.map": "/GeminiDS/static/js/787.fb6328c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffdcebf1.css",
+    "static/css/main.58a64f03.css",
     "static/js/main.9caa7724.js"
   ]
 }
